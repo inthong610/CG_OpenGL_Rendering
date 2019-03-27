@@ -61,18 +61,16 @@
 3-1) (without color) 
 	1) typing 
 	
-	```./CG_HW5```
+	./CG_HW5
 	
-Enter the file name :  generated.off
+	Enter the file name :  generated.off
 3-2) (with color)
 	1) typing
 	
-	``` 
 	./CG_HW5_colored 
-	```	
-	``` 
+	
 	Enter the file name : generatedColored.off 
-	``` 
+	 
 
 #### 소스 코드 컴파일 하기
 
