@@ -42,10 +42,10 @@
 #### Without Color :
 
 
-<img width="912" alt="without_color_1" src="https://user-images.githubusercontent.com/41661879/55077522-51168100-50db-11e9-976e-506ede5402d3.png">
-<img width="912" alt="without_color_2" src="https://user-images.githubusercontent.com/41661879/55077524-51af1780-50db-11e9-90fa-eb1f0175a788.png">
-<img width="912" alt="without_color_3" src="https://user-images.githubusercontent.com/41661879/55077525-51af1780-50db-11e9-8bfa-56c76b5789c4.png">
-<img width="912" alt="without_color_4" src="https://user-images.githubusercontent.com/41661879/55077527-51af1780-50db-11e9-91f4-0e1b152982de.png">
+<img width="500" alt="without_color_1" src="https://user-images.githubusercontent.com/41661879/55077522-51168100-50db-11e9-976e-506ede5402d3.png">
+<img width="500" alt="without_color_2" src="https://user-images.githubusercontent.com/41661879/55077524-51af1780-50db-11e9-90fa-eb1f0175a788.png">
+<img width="500" alt="without_color_3" src="https://user-images.githubusercontent.com/41661879/55077525-51af1780-50db-11e9-8bfa-56c76b5789c4.png">
+<img width="500" alt="without_color_4" src="https://user-images.githubusercontent.com/41661879/55077527-51af1780-50db-11e9-91f4-0e1b152982de.png">
 
 ## c. 파일 실행법 & 컴파일 하는 법
 
