@@ -55,22 +55,27 @@
 
 1) 터미널을 켠다.
 2) 해당 폴더로 이동한다.
+
 ``` cd /Users/folder ```
 
 3-1) (without color) 
 	1) typing 
 	
-	``` ./CG_HW5 ```
-	2) typing
-	
-	``` Enter the file name :  generated.off ```
+	``` 
+	./CG_HW5
+	```	
+	``` 
+	Enter the file name :  generated.off 
+	```
 3-2) (with color)
 	1) typing
 	
-	``` ./CG_HW5_colored ```
-	2) typing
-	
-	``` Enter the file name : generatedColored.off ``` 
+	``` 
+	./CG_HW5_colored 
+	```	
+	``` 
+	Enter the file name : generatedColored.off 
+	``` 
 
 #### 소스 코드 컴파일 하기
 
