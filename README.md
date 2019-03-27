@@ -49,22 +49,22 @@
 
 ## 3. 실행 파일 실행법 & 소스 코드 컴파일 하는 법
 
-#### 실행 파일 실행
+#### - 실행 파일 실행
 
 (Mac OS 기준)
 
-1. 터미널을 켠다.
-2. 해당 폴더로 이동한다.
+1) 터미널을 켠다.
+2) 해당 폴더로 이동한다.
 ``` cd /Users/folder ```
 
-3-1 (without color) 
+3-1) (without color) 
 	1) typing 
 	
 	``` ./CG_HW5 ```
 	2) typing
 	
 	``` Enter the file name :  generated.off ```
-3-2 (with color)
+3-2) (with color)
 	1) typing
 	
 	``` ./CG_HW5_colored ```
@@ -76,14 +76,14 @@
 
 ( Eclipse 기준 )
 
-1. 프로젝트를 만든다.
-2. Project > Properties > C/C++ Build > Settings > MacOX X C++ Linker > Miscellaneout>Linker flags 
+1) 프로젝트를 만든다.
+2) Project > Properties > C/C++ Build > Settings > MacOX X C++ Linker > Miscellaneout>Linker flags 
    add 
    -framework GLUT -framework OpenGL
-3. Project > Properties > C/C++ Build > Settings > GCC C++ Compiler > Includes > Include paths (-l) 
+3) Project > Properties > C/C++ Build > Settings > GCC C++ Compiler > Includes > Include paths (-l) 
    add 
    "/opt/X11/include "
-4. BUILD PROJECT -> RUN as LOCAL C/C++ APPLICATION
+4) BUILD PROJECT -> RUN as LOCAL C/C++ APPLICATION
 
 
 
