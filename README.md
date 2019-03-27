@@ -1,5 +1,5 @@
 # "OpenGL Rendering"
-> OpenGL, 3DF Zephyr, meshlab, C++ 이용하여 개발
+> OpenGL, 3DF Zephyr, Meshlab, C++ 이용하여 개발
 >> Colorless & Color rendering.
 
  
@@ -7,7 +7,7 @@
 
 ## a. 프로젝트 설명
 
-3DF Zephyr를 이용해서 만든 object를 meshlab을 이용하여 .off 파일로 변환하고, 이 파일들을 rendering 하여 목표에 따라 구현한다.
+3DF Zephyr를 이용해서 만든 object를 meshlab을 이용하여 .off 파일로 변환하고, 이 파일들을 OpenGL을 이용하여 목표에 따라 rendering 하여 구현한다.
 
 아래 사진은 3DF Zephyr를 이용해서 만든 object의 모습이다.
 
@@ -30,7 +30,7 @@
 
 
 
-## b. 시연
+## c. 시연
 
 #### With Color :
 
@@ -47,7 +47,7 @@
 <img width="500" alt="without_color_3" src="https://user-images.githubusercontent.com/41661879/55077525-51af1780-50db-11e9-8bfa-56c76b5789c4.png">
 <img width="500" alt="without_color_4" src="https://user-images.githubusercontent.com/41661879/55077527-51af1780-50db-11e9-91f4-0e1b152982de.png">
 
-## c. 파일 실행법 & 컴파일 하는 법
+## 3. 파일 실행법 & 컴파일 하는 법
 
 [How to execute the executable files]
 
@@ -81,25 +81,10 @@
 
 
 
-## 2. 개발자 정보
+## 4. 개발자 정보
 
 홍정수
   
-## 3. 최종 업데이트 날짜
+## 5. 최종 업데이트 날짜
 
 2018.12.03 (MON)
-
-
-
-
-
-------------------------------------------------------------------------------------------
-
-
-[State explicitly which features are implemented]
-
-1. add proper lighting (ambient, diffuse, specular)
-2. find proper viewpoint
-3. improve the speed of normal calculation 
-4. restore the original color texture from HW2 by exporting and adding per-vertex color
-
