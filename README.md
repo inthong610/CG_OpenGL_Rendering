@@ -34,6 +34,8 @@
 
 #### With Color :
 
+per-vertex color가 아닌 per-point color로 구현해서 깨짐이 보인다.
+
 <img width="500" alt="with_color_1" src="https://user-images.githubusercontent.com/41661879/55077516-507dea80-50db-11e9-9b7e-ebb2db2fb978.png">
 <img width="500" alt="with_color_2" src="https://user-images.githubusercontent.com/41661879/55077517-507dea80-50db-11e9-9aca-d4e7687cdbad.png">
 <img width="500" alt="with_color_3" src="https://user-images.githubusercontent.com/41661879/55077519-51168100-50db-11e9-8352-b9a4b4a7bfaf.png">
