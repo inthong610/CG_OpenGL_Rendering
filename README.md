@@ -9,7 +9,9 @@
 
 3DF Zephyr를 이용해서 만든 object를 meshlab을 이용하여 .off 파일로 변환하고, 이 파일들을 rendering 하여 목표에 따라 구현한다.
 
-아래 사진은 3DF Zephyr를 이용해서 만든 object으 모습이다.
+아래 사진은 3DF Zephyr를 이용해서 만든 object의 모습이다.
+
+
 ![CG HW2_1](https://user-images.githubusercontent.com/41661879/55077103-4c050200-50da-11e9-9b08-c10660f91892.png)
 ![CG HW2_2](https://user-images.githubusercontent.com/41661879/55077105-4c050200-50da-11e9-82fb-592c66e38aab.png)
 ![CG HW3_3](https://user-images.githubusercontent.com/41661879/55077106-4c050200-50da-11e9-9a88-d6cfc859b9b9.png)
