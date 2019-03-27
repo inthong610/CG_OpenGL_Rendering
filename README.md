@@ -34,10 +34,10 @@
 
 #### With Color :
 
-<img width="934" alt="with_color_1" src="https://user-images.githubusercontent.com/41661879/55077516-507dea80-50db-11e9-9b7e-ebb2db2fb978.png">
-<img width="934" alt="with_color_2" src="https://user-images.githubusercontent.com/41661879/55077517-507dea80-50db-11e9-9aca-d4e7687cdbad.png">
-<img width="934" alt="with_color_3" src="https://user-images.githubusercontent.com/41661879/55077519-51168100-50db-11e9-8352-b9a4b4a7bfaf.png">
-<img width="912" alt="with_color_4" src="https://user-images.githubusercontent.com/41661879/55077521-51168100-50db-11e9-8368-4b899e21e286.png">
+<img width="500" alt="with_color_1" src="https://user-images.githubusercontent.com/41661879/55077516-507dea80-50db-11e9-9b7e-ebb2db2fb978.png">
+<img width="500" alt="with_color_2" src="https://user-images.githubusercontent.com/41661879/55077517-507dea80-50db-11e9-9aca-d4e7687cdbad.png">
+<img width="500" alt="with_color_3" src="https://user-images.githubusercontent.com/41661879/55077519-51168100-50db-11e9-8352-b9a4b4a7bfaf.png">
+<img width="500" alt="with_color_4" src="https://user-images.githubusercontent.com/41661879/55077521-51168100-50db-11e9-8368-4b899e21e286.png">
 
 #### Without Color :
 
