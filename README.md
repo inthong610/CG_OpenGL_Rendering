@@ -47,9 +47,9 @@
 <img width="500" alt="without_color_3" src="https://user-images.githubusercontent.com/41661879/55077525-51af1780-50db-11e9-8bfa-56c76b5789c4.png">
 <img width="500" alt="without_color_4" src="https://user-images.githubusercontent.com/41661879/55077527-51af1780-50db-11e9-91f4-0e1b152982de.png">
 
-## 3. 파일 실행법 & 컴파일 하는 법
+## 3. 실행 파일 실행법 & 소스 코드 컴파일 하는 법
 
-[How to execute the executable files]
+#### [How to execute the executable files]
 
 1. first, OS is "macOS"
 2. turn on the terminal
@@ -66,7 +66,7 @@
 ------------------------------------------------------------------------------------------
  
 
-[How to compile]
+#### [How to compile]
 
 1. use eclipse
 2. make project
