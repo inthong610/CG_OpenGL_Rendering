@@ -63,10 +63,9 @@
 	
 	``` 
 	./CG_HW5
-	```	
-	``` 
-	Enter the file name :  generated.off 
 	```
+	
+	
 3-2) (with color)
 	1) typing
 	
