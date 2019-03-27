@@ -74,7 +74,7 @@ per-vertex color가 아닌 per-point color로 구현해서 깨짐이 보인다.
 	Enter the file name : generatedColored.off 
 	 
 
-#### 소스 코드 컴파일 하기
+#### 소스 코드 (main.cpp) 컴파일 하기
 
 ( Eclipse 기준 )
 
