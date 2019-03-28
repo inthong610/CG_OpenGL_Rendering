@@ -1,5 +1,5 @@
 # "OpenGL Rendering"
-> OpenGL, 3DF Zephyr, Meshlab, C++ 이용하여 개발
+> OpenGL, GLUT, 3DF Zephyr, Meshlab, C++ 이용하여 개발
 >> Colorless & Color rendering.
 
  
