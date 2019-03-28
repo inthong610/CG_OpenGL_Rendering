@@ -76,6 +76,13 @@ per-vertex color가 아닌 per-point color로 구현해서 깨짐이 보인다.
 
 #### 소스 코드 (main.cpp) 컴파일 하기
 
+( Xcode 기준 )
+
+1) 프로젝트를 만든다.
+2) Project > Build Phases > Compile Sources > 소스 파일들 추가
+3) Project > Build Phases > Link Binary With Libraries > OpenGL.framework 추가 > GLUT.framework 추가 
+4) Product > Run
+
 ( Eclipse 기준 )
 
 1) 프로젝트를 만든다.
